@@ -1,6 +1,6 @@
 # gittigidiyor-superfiyat-scraper
 
-This python app gets the names and prices of the products displayed in the super prices area on the gitgidiyor.com homepage.
+This python app gets the names and prices of the products displayed in the super prices area on the gittigidiyor.com homepage.
 
 Requirements:
 
