@@ -4,8 +4,8 @@ This python app gets the names and prices of the products displayed in the super
 
 Requirements:
 
-BeautifulSoup4
+BeautifulSoup4 : 
 pip install beautifulsoup4
 
-Selenium
+Selenium : 
 pip install selenium
